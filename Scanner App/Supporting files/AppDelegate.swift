@@ -3,7 +3,6 @@
 //  Scanner App
 //
 //
-
 import UIKit
 import Firebase
 import SwiftyStoreKit
@@ -11,42 +10,36 @@ import AppLovinSDK
 import AppsFlyerLib
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
-
     var window: UIWindow?
-
-
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
         FirebaseApp.configure()
-        SwiftyStoreKit.completeTransactions(atomically: true) { purchases in
+        SwiftyStoreKit.completeTransactions(atomically: true) {
+            purchases in
             for purchase in purchases {
                 switch purchase.transaction.transactionState {
-                case .purchased, .restored:
+                    case .purchased, .restored:
                     if purchase.needsFinishTransaction {
                         // Deliver content from server, then:
                         SwiftyStoreKit.finishTransaction(purchase.transaction)
                     }
-                // Unlock content
-                case .failed, .purchasing, .deferred:
+                    // Unlock content
+                    case .failed, .purchasing, .deferred:
                     break // do nothing
                 }
             }
         }
-        
-        SwiftyStoreKit.shouldAddStorePaymentHandler = { payment, product in
+        SwiftyStoreKit.shouldAddStorePaymentHandler = {
+            payment, product in
             // return true if the content can be delivered by your app
             // return false otherwiseH
             return true
         }
         ALSdk.initializeSdk()
-        
         AppsFlyerLib.shared().appsFlyerDevKey = ""
-               AppsFlyerLib.shared().appleAppID = ""
-               AppsFlyerLib.shared().delegate = self
-               AppsFlyerLib.shared().isDebug = false
-             
-
-      
+        AppsFlyerLib.shared().appleAppID = ""
+        AppsFlyerLib.shared().delegate = self
+        AppsFlyerLib.shared().isDebug = false
         return true
     }
 
@@ -61,7 +54,8 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     }
 
     func applicationWillEnterForeground(_ application: UIApplication) {
-        // Called as part of the transition from the background to the active state; here you can undo many of the changes made on entering the background.
+        // Called as part of the transition from the background to the active state;
+        here you can undo many of the changes made on entering the background.
     }
 
     func applicationDidBecomeActive(_ application: UIApplication) {
@@ -73,9 +67,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         // Called when the application is about to terminate. Save data if appropriate. See also applicationDidEnterBackground:.
     }
 
-
 }
-
 extension AppDelegate: AppsFlyerLibDelegate{
     // Handle Organic/Non-organic installation
     func onConversionDataSuccess(_ installData: [AnyHashable: Any]) {
@@ -86,23 +78,27 @@ extension AppDelegate: AppsFlyerLibDelegate{
         if let status = installData["af_status"] as? String {
             if (status == "Non-organic") {
                 if let sourceID = installData["media_source"],
-                   let campaign = installData["campaign"] {
+                let campaign = installData["campaign"] {
                     print("This is a Non-Organic install. Media source: \(sourceID)  Campaign: \(campaign)")
                 }
-            } else {
+            }
+            else {
                 print("This is an organic install.")
             }
             if let is_first_launch = installData["is_first_launch"] as? Bool,
-               is_first_launch {
+            is_first_launch {
                 print("First Launch")
-            } else {
+            }
+            else {
                 print("Not First Launch")
             }
         }
     }
+
     func onConversionDataFail(_ error: Error) {
         print(error)
     }
+
     //Handle Deep Link
     func onAppOpenAttribution(_ attributionData: [AnyHashable : Any]) {
         //Handle Deep Link Data
@@ -111,7 +107,9 @@ extension AppDelegate: AppsFlyerLibDelegate{
             print(key, ":",value)
         }
     }
+
     func onAppOpenAttributionFailure(_ error: Error) {
         print(error)
     }
+
 }
