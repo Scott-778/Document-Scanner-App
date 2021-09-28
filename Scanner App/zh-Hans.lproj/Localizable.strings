@@ -1,0 +1,63 @@
+/* 
+  Localizable.strings
+  Scanner App
+
+
+*/
+"trialWeek" = "我们提供为期三天的免费试用。订阅续订，除非在订阅期结束前至少24小时关闭自动续订。会员每周收费。帐户将在试用期后收取费用。价格因国家而异。购买后，可以通过iTunes帐户设置管理自动续订选项或取消。当用户取消订阅时，将取消未使用的免费试用部分。";
+"trialYear" = "我们提供三天免费试用。订阅更新，除非在订阅期结束前至少24小时关闭了自动更新。每年将收取费用。试用期过后将向帐户收费。价格因国家/地区而异。购买后，可以通过iTunes帐户设置管理自动更新选项或取消。当用户取消订阅时，将免费使用未使用的免费试用部分。";
+
+"cancel" = "取消";
+
+
+"Try 3 days FREE Then" = "尝试三天免费然后";
+
+"week" = "/周";
+
+"features" = "无限的文件                                         没有广告                                                    文字识别 OCR";
+
+"camera" = "相机";
+"photos" = "相片";
+"addPhotos" = "添加照片中的页面";
+"addCamera" = "从相机添加页面";
+"noText" = "找不到文字";
+"differentImage" = "请尝试不同的图像";
+"ok" = "Ok";
+"deletePDF" = "删除pdf";
+"delete" = "删除";
+"terms" = "服务条款";
+"pp" = "隐私政策";
+"contact" = "联系我们";
+"exportFormat" = "格式";
+"image" = "图片";
+/* The "Next" button on the right side of the navigation bar on the Edit screen. */
+"wescan.edit.button.next" = "下一个";
+
+/* The title on the navigation bar of the Edit screen. */
+"wescan.edit.title" = "编辑";
+
+/* The title on the navigation bar of the Review screen. */
+"wescan.review.title" = "复审";
+
+/* The button titles on the Scanning screen. */
+"wescan.scanning.cancel" = "取消";
+"wescan.scanning.auto" = "自动";
+"wescan.scanning.manual" = "手册";
+"scannedText" = "公认的文字";
+"continue" = "继续";
+"year" = "/年头";
+"month" = "/月";
+"sort" = "分类";
+"sortBy" = "分类";
+"date" = "日期";
+"pageCount" = "页数";
+"copied" = "复制的文字";
+"name" = "名称";
+"page" = " 页";
+"pages" = " 页数";
+"rename" = "改名";
+"enterNewName" = "输入新的文件名";
+"save" = "保存";
+"restore" = "恢复";
+"startFreeTrial" = "继续";
+"markup" = "编辑/添加签名";

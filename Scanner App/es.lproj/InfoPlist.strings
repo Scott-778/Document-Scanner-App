@@ -1,0 +1,8 @@
+/* 
+  InfoPlist.strings
+  Scanner App
+
+  
+*/
+NSCameraUsageDescription = "Scanner App necesita permiso para que la cámara escanee documentos.";
+NSPhotoLibraryAddUsageDescription = "Scanner App necesita permiso para agregar fotos a su biblioteca de fotos.";

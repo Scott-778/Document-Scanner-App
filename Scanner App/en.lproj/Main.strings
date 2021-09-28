@@ -1,0 +1,48 @@
+
+/* Class = "UINavigationItem"; title = "Documents"; ObjectID = "7qb-Ey-8HB"; */
+"7qb-Ey-8HB.title" = "Documents";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "9Mj-Ro-pCi"; */
+"9Mj-Ro-pCi.title" = "Item";
+
+/* Class = "UINavigationItem"; title = "Scanner App"; ObjectID = "Ah3-b8-ueJ"; */
+"Ah3-b8-ueJ.title" = "Scanner App";
+
+/* Class = "UIButton"; normalTitle = "Continue"; ObjectID = "CGr-T3-Arn"; */
+"CGr-T3-Arn.normalTitle" = "Continue";
+
+/* Class = "UINavigationItem"; title = "Settings"; ObjectID = "K1i-3t-8eY"; */
+"K1i-3t-8eY.title" = "Settings";
+
+/* Class = "UIBarButtonItem"; title = "Terms"; ObjectID = "Kru-si-bCY"; */
+"Kru-si-bCY.title" = "Terms";
+
+/* Class = "UIBarButtonItem"; title = "OCR"; ObjectID = "MEe-zu-m1D"; */
+"MEe-zu-m1D.title" = "OCR";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "MSs-gd-9ND"; */
+"MSs-gd-9ND.title" = "Item";
+
+/* Class = "UITextView"; text = "We offer a three day free trial. Subscription renews unless auto-renew is turn off al least 24 hours before end of subscription period. Acount will be charged weekly. Account will be charged after the trial period. Prices vary depending on country. Auto-renew option or cancellation can be managed by from iTunes Account Settings after purchase. Unused portion of free trial will be foreited when a user cancels subscription."; ObjectID = "MzJ-OQ-tt7"; */
+"MzJ-OQ-tt7.text" = "We offer a three day free trial. Subscription renews unless auto-renew is turn off al least 24 hours before end of subscription period. Acount will be charged weekly. Account will be charged after the trial period. Prices vary depending on country. Auto-renew option or cancellation can be managed by from iTunes Account Settings after purchase. Unused portion of free trial will be foreited when a user cancels subscription.";
+
+/* Class = "UILabel"; text = "Premium"; ObjectID = "R2L-zE-MJX"; */
+"R2L-zE-MJX.text" = "Premium";
+
+/* Class = "UIBarButtonItem"; title = "Copy"; ObjectID = "SZB-k5-AmT"; */
+"SZB-k5-AmT.title" = "Copy";
+
+/* Class = "UINavigationItem"; title = "Export"; ObjectID = "aAn-hP-V3s"; */
+"aAn-hP-V3s.title" = "Export";
+
+/* Class = "UITabBarItem"; title = "Settings"; ObjectID = "cPa-gy-q4n"; */
+"cPa-gy-q4n.title" = "Settings";
+
+/* Class = "UIButton"; normalTitle = "Restore"; ObjectID = "qzn-ga-FHn"; */
+"qzn-ga-FHn.normalTitle" = "Restore";
+
+/* Class = "UIBarButtonItem"; title = "Privacy"; ObjectID = "rMl-Eb-t1T"; */
+"rMl-Eb-t1T.title" = "Privacy";
+
+/* Class = "UITextView"; text = "Unlimited Scans                                         No ads                                                    Text Recognition OCR                                     Unlimited Documents"; ObjectID = "tWj-nJ-6h8"; */
+"tWj-nJ-6h8.text" = "Unlimited Scans                                         No ads                                                    Text Recognition OCR                                     Unlimited Documents";

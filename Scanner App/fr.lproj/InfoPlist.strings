@@ -1,0 +1,8 @@
+/* 
+  InfoPlist.strings
+  Scanner App
+
+
+*/
+NSCameraUsageDescription = "Scanner App na besoin de la permission de l'appareil photo pour numériser des documents.";
+NSPhotoLibraryAddUsageDescription = "Scanner App nécessite l'autorisation d'ajouter des photos à votre photothèque.";

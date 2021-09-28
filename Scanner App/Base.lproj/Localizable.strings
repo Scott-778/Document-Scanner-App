@@ -1,0 +1,64 @@
+/* 
+  Localizable.strings
+  Scanner App
+
+ 
+*/
+"trialWeek" = "We offer a three day free trial. Subscription auto-renews unless auto-renew is turn off at least 24 hours before end of subscription period. Acount will be charged weekly. Account will be charged after the trial period. Prices vary depending on country. Auto-renew option or cancellation can be managed by user from iTunes Account Settings after purchase. Unused portion of free trial will be foreited when a user cancels subscription.";
+"trialYear" = "We offer a three day free trial. Subscription auto-renews unless auto-renew is turn off at least 24 hours before end of subscription period. Acount will be charged yearly. Account will be charged after the trial period. Prices vary depending on country. Auto-renew option or cancellation can be managed by user from iTunes Account Settings after purchase. Unused portion of free trial will be foreited when a user cancels subscription.";
+
+"cancel" = "Cancel";
+
+
+"Try 3 days FREE Then" = "Try 3 days free, then plan auto-renews for";
+
+"week" = "/week";
+
+"features" = "Unlimited Scans                                         No ads                                                    Text Recognition OCR                                     Unlimited Documents";
+
+"camera" = "Camera";
+"photos" = "Photos";
+"addPhotos" = "Add page from Photos";
+"addCamera" = "Add page with Camera";
+"noText" = "No text found";
+"differentImage" = "Please try a different image";
+"ok" = "Ok";
+"deletePDF" = "Delete PDF?";
+"delete" = "Delete";
+"terms" = "Terms of Service";
+"pp" = "Privacy Policy";
+"contact" = "Contact Us";
+"exportFormat" = "Export Format";
+"image" = "Image";
+/* The "Next" button on the right side of the navigation bar on the Edit screen. */
+"wescan.edit.button.next" = "Next";
+
+/* The title on the navigation bar of the Edit screen. */
+"wescan.edit.title" = "Edit Scan";
+
+/* The title on the navigation bar of the Review screen. */
+"wescan.review.title" = "Review";
+
+/* The button titles on the Scanning screen. */
+"wescan.scanning.cancel" = "Cancel";
+"wescan.scanning.auto" = "Auto";
+"wescan.scanning.manual" = "Manual";
+"scannedText" = "Scanned Text";
+"continue" = "Continue";
+"year" = "/year";
+"yearAfter" = "/year";
+"month" = "/month";
+"sort" = "Sort";
+"sortBy" = "Sort by";
+"date" = "Date";
+"pageCount" = "Page count";
+"copied" = "Text copied";
+"name" = "Name";
+"page" = " Page";
+"pages" = " Pages";
+"rename" = "Rename";
+"enterNewName" = "Enter new document name";
+"save" = "Save";
+"restore" = "Restore";
+"startFreeTrial" = "Start Free Trial & Subscribe";
+"markup" = "Markup/Add Signature";

@@ -1,0 +1,67 @@
+
+/* Class = "UINavigationItem"; title = "Documents"; ObjectID = "7qb-Ey-8HB"; */
+"7qb-Ey-8HB.title" = "Documentos";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "9Mj-Ro-pCi"; */
+"9Mj-Ro-pCi.title" = "Item";
+
+/* Class = "UINavigationItem"; title = "Scanner App"; ObjectID = "Ah3-b8-ueJ"; */
+"Ah3-b8-ueJ.title" = "Scanner App";
+
+/* Class = "UIButton"; normalTitle = "Continue"; ObjectID = "CGr-T3-Arn"; */
+"CGr-T3-Arn.normalTitle" = "Suscribir";
+
+/* Class = "UINavigationItem"; title = "Settings"; ObjectID = "K1i-3t-8eY"; */
+"K1i-3t-8eY.title" = "Información";
+
+/* Class = "UIBarButtonItem"; title = "Terms"; ObjectID = "Kru-si-bCY"; */
+"Kru-si-bCY.title" = "Condiciones de uso";
+"Wia-Qc-fEq.title" = "Condiciones de uso";
+
+/* Class = "UIBarButtonItem"; title = "OCR"; ObjectID = "MEe-zu-m1D"; */
+"MEe-zu-m1D.title" = "OCR";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "MSs-gd-9ND"; */
+"MSs-gd-9ND.title" = "Item";
+
+/* Class = "UITextView"; text = "We offer a three day free trial. Subscription renews unless auto-renew is turn off al least 24 hours before end of subscription period. Acount will be charged weekly. Account will be charged after the trial period. Prices vary depending on country. Auto-renew option or cancellation can be managed by from iTunes Account Settings after purchase. Unused portion of free trial will be foreited when a user cancels subscription."; ObjectID = "MzJ-OQ-tt7"; */
+"MzJ-OQ-tt7.text" = "Ofrecemos una prueba gratuita de tres días. La suscripción se renueva a menos que la renovación automática se desactive al menos 24 horas antes del final del período de suscripción. La cuenta se cobrará semanalmente. La cuenta se cargará después del período de prueba. Los precios varían según el país. La opción de renovación automática o la cancelación se pueden administrar desde la configuración de la cuenta de iTunes después de la compra. La porción no utilizada de la prueba gratuita se ejecutará cuando un usuario cancele la suscripción.";
+
+/* Class = "UILabel"; text = "Premium"; ObjectID = "R2L-zE-MJX"; */
+"R2L-zE-MJX.text" = "Premium";
+
+/* Class = "UIBarButtonItem"; title = "Copy"; ObjectID = "SZB-k5-AmT"; */
+"SZB-k5-AmT.title" = "Dupdo";
+
+/* Class = "UINavigationItem"; title = "Export"; ObjectID = "aAn-hP-V3s"; */
+"aAn-hP-V3s.title" = "Exportar";
+
+/* Class = "UITabBarItem"; title = "Settings"; ObjectID = "cPa-gy-q4n"; */
+"cPa-gy-q4n.title" = "Información";
+
+/* Class = "UIButton"; normalTitle = "Restore"; ObjectID = "qzn-ga-FHn"; */
+"Boa-DM-718.title" = "Restaurar";
+"Tp3-SQ-SMq.title" = "Restaurar";
+
+/* Class = "UIBarButtonItem"; title = "Privacy"; ObjectID = "rMl-Eb-t1T"; */
+"rMl-Eb-t1T.title" = "Privacidad";
+"PMn-b5-Za4.title" = "Privacidad";
+
+/* Class = "UITextView"; text = "Unlimited Scans                                         No ads                                                    Text Recognition OCR                                     Unlimited Documents"; ObjectID = "tWj-nJ-6h8"; */
+"tWj-nJ-6h8.text" = "Documentos ilimitados                                         Sin publicidad                                                    Reconocimiento de texto                                     ";
+/* Rename */
+"qDz-cH-9rE.title" = "rebautizar";
+
+//more options
+"CTg-61-oAY.normalTitle" = "mas opciones";
+"KGI-f4-cdT.normalTitle" = "Suscribir";
+
+// features
+"9Cz-3u-xyW.text" = "✓  Documentos ilimitados";
+"Sq6-MN-psS.text" = "✓  Reconocimiento de texto";
+"HfW-xU-uHH.text" = "✓  Sin publicidad";
+
+//features2
+"0v8-dI-pen.text" = "✓  Documentos ilimitados";
+"1Oi-XI-YYp.text" = "✓  Reconocimiento de texto";
+"yTO-yW-0KY.text" = "✓  Sin publicidad";

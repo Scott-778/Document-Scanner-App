@@ -1,0 +1,63 @@
+/* 
+  Localizable.strings
+  Scanner App
+
+  
+*/
+"trialWeek" = "Nous offrons un essai gratuit de trois jours. L'abonnement est renouvelé sauf si le renouvellement automatique est désactivé au moins 24 heures avant la fin de la période d'abonnement. Le montant sera facturé chaque semaine. Le compte sera débité après la période d’essai. Les prix varient selon les pays. L'option de renouvellement automatique ou l'annulation peut être gérée à partir des paramètres du compte iTunes après l'achat. La portion inutilisée de l'essai gratuit sera avertie lorsqu'un utilisateur annule son abonnement.";
+"trialYear" = "Nous offrons un essai gratuit de trois jours. L'abonnement est renouvelé sauf si le renouvellement automatique est désactivé au moins 24 heures avant la fin de la période d'abonnement. Le montant sera débité annuellement. Le compte sera débité après la période d’essai. Les prix varient selon les pays. L'option de renouvellement automatique ou l'annulation peut être gérée à partir des paramètres du compte iTunes après l'achat. La portion inutilisée de l'essai gratuit sera avertie lorsqu'un utilisateur annule son abonnement.";
+
+"cancel" = "Annuler";
+
+
+"Try 3 days FREE Then" = "Essayez 3 jours gratuits, puis";
+
+"week" = "/semaine";
+
+"features" = "Documents illimités                                         Pas de publicité                                                    Reconnaissance de texte";
+
+"camera" = "Caméra";
+"photos" = "Photos";
+"addPhotos" = "Ajouter des pages à partir de photos";
+"addCamera" = "Ajouter des pages avec l'appareil photo";
+"noText" = "Aucun mot trouvé";
+"differentImage" = "S'il vous plaît essayer une image différente";
+"ok" = "Ok";
+"deletePDF" = "Supprimer le PDF?";
+"delete" = "Effacer";
+"terms" = "Conditions d'utilisation";
+"pp" = "Politique de confidentialité";
+"contact" = "Contactez nous";
+"exportFormat" = "Format d'exportation";
+"image" = "Image";
+/* The "Next" button on the right side of the navigation bar on the Edit screen. */
+"wescan.edit.button.next" = "Suivant";
+
+/* The title on the navigation bar of the Edit screen. */
+"wescan.edit.title" = "Modifier";
+
+/* The title on the navigation bar of the Review screen. */
+"wescan.review.title" = "La revue";
+
+/* The button titles on the Scanning screen. */
+"wescan.scanning.cancel" = "Annuler";
+"wescan.scanning.auto" = "Auto";
+"wescan.scanning.manual" = "Manuel";
+"scannedText" = "Texte scanné";
+"continue" = "Continuer";
+"year" = "/année";
+"month" = "/monis";
+"sort" = "Trier";
+"sortBy" = "Trier";
+"date" = "l' date";
+"pageCount" = "Nombre de pages";
+"copied" = "Texte copié";
+"name" = "Nom";
+"page" = " Page";
+"pages" = " Des pages";
+"rename" = "Renommer";
+"enterNewName" = "Entrez le nouveau nom du document";
+"save" = "Enregistrer";
+"restore" = "Restaurer";
+"startFreeTrial" = "Continuer";
+"markup" = "Modifier / ajouter une signature";

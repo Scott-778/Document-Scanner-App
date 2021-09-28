@@ -1,0 +1,8 @@
+/* 
+  InfoPlist.strings
+  Scanner App
+
+ 
+*/
+NSCameraUsageDescription = "Scanner App 需要相机才能扫描文件。";
+NSPhotoLibraryAddUsageDescription = "Scanner App 需要获得将照片添加到照片库的权限。";

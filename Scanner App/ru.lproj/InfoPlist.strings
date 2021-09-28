@@ -1,0 +1,8 @@
+/* 
+  InfoPlist.strings
+  Scanner App
+
+  
+*/
+NSCameraUsageDescription = "Scanner App требуется разрешение на камеру для сканирования документов.";
+NSPhotoLibraryAddUsageDescription = "Scanner App требуется разрешение для добавления фотографий в вашу библиотеку фотографий.";
